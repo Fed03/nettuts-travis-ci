@@ -1,0 +1,11 @@
+{
+  "name": "travisci",
+  "version": "0.0.1",
+  "devDependencies": {
+    "grunt": "0.4.1",
+    "grunt-contrib-jshint": "0.6.4"
+  },
+  "scripts": {
+    "test": "grunt --verbose"
+  }
+}
